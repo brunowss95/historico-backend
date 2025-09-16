@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "4ekjojygl9",
+    "value": "00",
+    "color": "white",
+    "timestamp": "03:27",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1BzqyR1K",
+    "value": "01",
+    "color": "red",
+    "timestamp": "03:27",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKjyN1K",
+    "value": "02",
+    "color": "red",
+    "timestamp": "03:26",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2xK1E",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:26",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moyqalj",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:25",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDzEdly",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:25",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbjLMrn",
+    "value": "11",
+    "color": "black",
+    "timestamp": "03:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9gplj",
+    "value": "09",
+    "color": "black",
+    "timestamp": "03:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbg3k3",
+    "value": "09",
+    "color": "black",
+    "timestamp": "03:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYMZrn",
+    "value": "02",
+    "color": "red",
+    "timestamp": "03:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5QdAVl9",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpj9q1O",
+    "value": "08",
+    "color": "black",
+    "timestamp": "03:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jOW1e",
+    "value": "08",
+    "color": "black",
+    "timestamp": "03:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoRqYkZ",
+    "value": "07",
+    "color": "red",
+    "timestamp": "03:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2Db5zkb",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6jxQlX",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEdgd1B",
+    "value": "10",
+    "color": "black",
+    "timestamp": "03:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7pYrK",
+    "value": "10",
+    "color": "black",
+    "timestamp": "03:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAnOkY",
+    "value": "00",
+    "color": "white",
+    "timestamp": "03:18",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEgYkp",
+    "value": "00",
+    "color": "white",
+    "timestamp": "03:18",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enj9Zko",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyj7Wrz",
+    "value": "03",
+    "color": "red",
+    "timestamp": "03:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOG0N1v",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajO4kv",
+    "value": "10",
+    "color": "black",
+    "timestamp": "03:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLY8kA",
+    "value": "13",
+    "color": "black",
+    "timestamp": "03:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQYBrG",
+    "value": "04",
+    "color": "red",
+    "timestamp": "03:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKb3lZ",
+    "value": "05",
+    "color": "red",
+    "timestamp": "03:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvppr6",
+    "value": "10",
+    "color": "black",
+    "timestamp": "03:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3Kb1O",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jLX13",
+    "value": "04",
+    "color": "red",
+    "timestamp": "03:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j8LlL",
+    "value": "00",
+    "color": "white",
+    "timestamp": "03:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYgZk5",
+    "value": "11",
+    "color": "black",
+    "timestamp": "03:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwKVrL",
+    "value": "05",
+    "color": "red",
+    "timestamp": "03:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPgz1j",
+    "value": "04",
+    "color": "red",
+    "timestamp": "03:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8ELrG",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajOXkv",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLYekA",
+    "value": "05",
+    "color": "red",
+    "timestamp": "03:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQYyrG",
+    "value": "09",
+    "color": "black",
+    "timestamp": "03:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKbAlZ",
+    "value": "03",
+    "color": "red",
+    "timestamp": "03:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvpar6",
+    "value": "07",
+    "color": "red",
+    "timestamp": "03:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3K91O",
+    "value": "05",
+    "color": "red",
+    "timestamp": "03:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jL813",
+    "value": "05",
+    "color": "red",
+    "timestamp": "03:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j8wlL",
+    "value": "13",
+    "color": "black",
+    "timestamp": "03:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYgmk5",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwKvrL",
+    "value": "11",
+    "color": "black",
+    "timestamp": "03:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPgV1j",
+    "value": "13",
+    "color": "black",
+    "timestamp": "03:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8E5rG",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WplzpeLg1n",
+    "value": "09",
+    "color": "black",
+    "timestamp": "03:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qp9O1N",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegA2rQ",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJenDMlK",
+    "value": "07",
+    "color": "red",
+    "timestamp": "03:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmjPekj",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmjN31O",
+    "value": "14",
+    "color": "black",
+    "timestamp": "03:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QOPZrB",
+    "value": "07",
+    "color": "red",
+    "timestamp": "03:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onp0qrd",
+    "value": "06",
+    "color": "red",
+    "timestamp": "03:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANO2kz",
+    "value": "12",
+    "color": "black",
+    "timestamp": "03:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjojNQl9",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1BzqDV1K",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKjLq1K",
+    "value": "05",
+    "color": "red",
+    "timestamp": "02:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd26L1E",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moyeylj",
+    "value": "06",
+    "color": "red",
+    "timestamp": "02:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDz7aly",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbjYNrn",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9dblj",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbx7k3",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYNVrn",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5QdEBl9",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpjdo1O",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jb61e",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoRDBkZ",
+    "value": "05",
+    "color": "red",
+    "timestamp": "02:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2DbL3kb",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6j9xlX",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEdAA1B",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:51",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7x6rK",
+    "value": "05",
+    "color": "red",
+    "timestamp": "02:51",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAKmkY",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEKWkp",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjOwko",
+    "value": "07",
+    "color": "red",
+    "timestamp": "02:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyjp5rz",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOGD61v",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajyXkv",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bL0ekA",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQ3yrG",
+    "value": "07",
+    "color": "red",
+    "timestamp": "02:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKeAlZ",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvjar6",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3b91O",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jd813",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9jEwlL",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQY8mk5",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwpvrL",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybP7V1j",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8B5rG",
+    "value": "07",
+    "color": "red",
+    "timestamp": "02:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WplzpeDg1n",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qp4O1N",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegX2rQ",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJenQMlK",
+    "value": "06",
+    "color": "red",
+    "timestamp": "02:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmjXekj",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmjX31O",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QOvZrB",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onpzqrd",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANx2kz",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjojbQl9",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1BzqWV1K",
+    "value": "03",
+    "color": "red",
+    "timestamp": "02:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKjQq1K",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:36",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2XL1E",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:36",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moydylj",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:35",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDzXaly",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:35",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbjQNrn",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:34",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9eblj",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:34",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbO7k3",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:33",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QY4Vrn",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:33",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5QdwBl9",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:32",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpjQo1O",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:32",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jX61e",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:31",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoRQBkZ",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:31",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2Db43kb",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:30",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6jXxlX",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:30",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEdLA1B",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:29",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y766rK",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:29",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAgmkY",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:28",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyE0Wkp",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:28",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjXwko",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:27",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AK4AlZ",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvQar6",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3Q91O",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jX813",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9jXwlL",
+    "value": "07",
+    "color": "red",
+    "timestamp": "02:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQY7mk5",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwXvrL",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPDV1j",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8j5rG",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajwvkv",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLmEkA",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQwWrG",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvwXr6",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:18",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3wm1O",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jYn13",
+    "value": "08",
+    "color": "black",
+    "timestamp": "02:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9jLJlL",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYjPk5",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwb2rL",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPXG1j",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8wgrG",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Wplzpejy1n",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qpop1N",
+    "value": "01",
+    "color": "red",
+    "timestamp": "02:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegwzrQ",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJenwYlK",
+    "value": "04",
+    "color": "red",
+    "timestamp": "02:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmj9ykj",
+    "value": "06",
+    "color": "red",
+    "timestamp": "02:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmj7Z1O",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QOmVrB",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onpxdrd",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANjEkz",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjoj95l9",
+    "value": "09",
+    "color": "black",
+    "timestamp": "02:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1Bzqw21K",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKjOy1K",
+    "value": "05",
+    "color": "red",
+    "timestamp": "02:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2wx1E",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moyPelj",
+    "value": "06",
+    "color": "red",
+    "timestamp": "02:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDzKXly",
+    "value": "11",
+    "color": "black",
+    "timestamp": "02:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbjyyrn",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9jwlj",
+    "value": "05",
+    "color": "red",
+    "timestamp": "02:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbewk3",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYmyrn",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5Qdmjl9",
+    "value": "10",
+    "color": "black",
+    "timestamp": "02:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpjbn1O",
+    "value": "00",
+    "color": "white",
+    "timestamp": "02:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jyM1e",
+    "value": "02",
+    "color": "red",
+    "timestamp": "02:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoRwdkZ",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2DbmDkb",
+    "value": "06",
+    "color": "red",
+    "timestamp": "02:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6jKelX",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEdja1B",
+    "value": "14",
+    "color": "black",
+    "timestamp": "02:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7mgrK",
+    "value": "12",
+    "color": "black",
+    "timestamp": "02:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAmGkY",
+    "value": "13",
+    "color": "black",
+    "timestamp": "02:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEjOkp",
+    "value": "03",
+    "color": "red",
+    "timestamp": "02:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjdgko",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyjAerz",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOGwR1v",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNaj5vkv",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLnEkA",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQ2WrG",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKwXlZ",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgv2Xr6",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3Dm1O",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2j6n13",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j0JlL",
+    "value": "05",
+    "color": "red",
+    "timestamp": "01:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYZPk5",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwq2rL",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPnG1j",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb83grG",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WplzpeWy1n",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qpnp1N",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:51",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegozrQ",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJen2YlK",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmj6ykj",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmjWZ1O",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QODVrB",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onpWdrd",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANXEkz",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjojG5l9",
+    "value": "04",
+    "color": "red",
+    "timestamp": "01:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1Bzq321K",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKj8y1K",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2mx1E",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moyjelj",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDz2Xly",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbj3yrn",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9wwlj",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbWwk3",
+    "value": "04",
+    "color": "red",
+    "timestamp": "01:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYnyrn",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5Qdnjl9",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpj0n1O",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jqM1e",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoR2dkZ",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2DbnDkb",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6j0elX",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEdWa1B",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7zgrK",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAoGkY",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEWOkp",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjqgko",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyj3erz",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:36",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOGXR1v",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:36",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajKvkv",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:35",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLoEkA",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:35",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQdWrG",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:34",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKEXlZ",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:34",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvYXr6",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:33",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA37m1O",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:33",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jwn13",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:32",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j2JlL",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:32",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYwPk5",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:31",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwV2rL",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:31",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPqG1j",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:30",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8ogrG",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:30",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajKWkv",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:29",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLoLkA",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:29",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQd5rG",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:28",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKEPlZ",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:28",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvYPr6",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:27",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA37Z1O",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:27",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jwe13",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:26",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j2KlL",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:26",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYwdk5",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:25",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwVRrL",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:25",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPqE1j",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8oArG",
+    "value": "05",
+    "color": "red",
+    "timestamp": "01:24",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Wplzpeqo1n",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qp791N",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:23",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegOXrQ",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJenpwlK",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:22",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmjQ6kj",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmjVV1O",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:21",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QONprB",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onpZ8rd",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:20",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANqQkz",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjojwzl9",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:19",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1BzqoA1K",
+    "value": "10",
+    "color": "black",
+    "timestamp": "01:18",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKj2K1K",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:18",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2oP1E",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moy6xlj",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:17",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDzwLly",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbj96rn",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:16",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9Valj",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbw0k3",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:15",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYLGrn",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5Qd9vl9",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:14",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpjzw1O",
+    "value": "03",
+    "color": "red",
+    "timestamp": "01:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jD91e",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:13",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoR0ekZ",
+    "value": "01",
+    "color": "red",
+    "timestamp": "01:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2DbRBkb",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:12",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6jqNlX",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEd931B",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:11",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7dMrK",
+    "value": "04",
+    "color": "red",
+    "timestamp": "01:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xARvkY",
+    "value": "09",
+    "color": "black",
+    "timestamp": "01:10",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEoGkp",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjDRko",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:09",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyj5Prz",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOGgy1v",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:08",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajqWkv",
+    "value": "11",
+    "color": "black",
+    "timestamp": "01:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLOLkA",
+    "value": "04",
+    "color": "red",
+    "timestamp": "01:07",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQ05rG",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKYPlZ",
+    "value": "02",
+    "color": "red",
+    "timestamp": "01:06",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvoPr6",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3RZ1O",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:05",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2jDe13",
+    "value": "12",
+    "color": "black",
+    "timestamp": "01:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9jqKlL",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:04",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYzdk5",
+    "value": "04",
+    "color": "red",
+    "timestamp": "01:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwBRrL",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:03",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPzE1j",
+    "value": "14",
+    "color": "black",
+    "timestamp": "01:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8XArG",
+    "value": "07",
+    "color": "red",
+    "timestamp": "01:02",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Wplzpevo1n",
+    "value": "13",
+    "color": "black",
+    "timestamp": "01:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "LKl3qpA91N",
+    "value": "08",
+    "color": "black",
+    "timestamp": "01:01",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "jxrMegDXrQ",
+    "value": "06",
+    "color": "red",
+    "timestamp": "01:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "9YrJenjwlK",
+    "value": "00",
+    "color": "white",
+    "timestamp": "01:00",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "mDlZmjD6kj",
+    "value": "12",
+    "color": "black",
+    "timestamp": "00:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "96rXmjQV1O",
+    "value": "10",
+    "color": "black",
+    "timestamp": "00:59",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KV16QOpprB",
+    "value": "13",
+    "color": "black",
+    "timestamp": "00:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "pJ1onp78rd",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:58",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "YArwANvQkz",
+    "value": "07",
+    "color": "red",
+    "timestamp": "00:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4ekjojpzl9",
+    "value": "04",
+    "color": "red",
+    "timestamp": "00:57",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "2O1BzqnA1K",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "o5rVKjVK1K",
+    "value": "01",
+    "color": "red",
+    "timestamp": "00:56",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Jw1Dd2gP1E",
+    "value": "10",
+    "color": "black",
+    "timestamp": "00:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "4J1moyOxlj",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:55",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "zokgDzALly",
+    "value": "13",
+    "color": "black",
+    "timestamp": "00:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "04lQbjq6rn",
+    "value": "11",
+    "color": "black",
+    "timestamp": "00:54",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "eRlvR9valj",
+    "value": "06",
+    "color": "red",
+    "timestamp": "00:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "8LknJbK0k3",
+    "value": "06",
+    "color": "red",
+    "timestamp": "00:53",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "O2l4QYyGrn",
+    "value": "11",
+    "color": "black",
+    "timestamp": "00:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AKl5Qdbvl9",
+    "value": "04",
+    "color": "red",
+    "timestamp": "00:52",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "JblRpjDw1O",
+    "value": "12",
+    "color": "black",
+    "timestamp": "00:51",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "DV1a5jd91e",
+    "value": "10",
+    "color": "black",
+    "timestamp": "00:51",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Y8kGoRVekZ",
+    "value": "11",
+    "color": "black",
+    "timestamp": "00:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "N8r2DbMBkb",
+    "value": "08",
+    "color": "black",
+    "timestamp": "00:50",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "MerW6jVNlX",
+    "value": "07",
+    "color": "red",
+    "timestamp": "00:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3V1qEd831B",
+    "value": "06",
+    "color": "red",
+    "timestamp": "00:49",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "vRl8y7AMrK",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "V5k0xAjvkY",
+    "value": "13",
+    "color": "black",
+    "timestamp": "00:48",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "Nz1xyEJGkp",
+    "value": "14",
+    "color": "black",
+    "timestamp": "00:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "EV1enjLRko",
+    "value": "07",
+    "color": "red",
+    "timestamp": "00:47",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "QqlPyj2Prz",
+    "value": "11",
+    "color": "black",
+    "timestamp": "00:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "7dlEOG6y1v",
+    "value": "02",
+    "color": "red",
+    "timestamp": "00:46",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajVWkv",
+    "value": "01",
+    "color": "red",
+    "timestamp": "00:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLyLkA",
+    "value": "07",
+    "color": "red",
+    "timestamp": "00:45",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQj5rG",
+    "value": "03",
+    "color": "red",
+    "timestamp": "00:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKoPlZ",
+    "value": "11",
+    "color": "black",
+    "timestamp": "00:44",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvVPr6",
+    "value": "05",
+    "color": "red",
+    "timestamp": "00:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3VZ1O",
+    "value": "04",
+    "color": "red",
+    "timestamp": "00:43",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2j7e13",
+    "value": "05",
+    "color": "red",
+    "timestamp": "00:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3elY9j6KlL",
+    "value": "07",
+    "color": "red",
+    "timestamp": "00:42",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "GR1pQYqdk5",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "KRkbxwORrL",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:41",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "3ErybPmE1j",
+    "value": "08",
+    "color": "black",
+    "timestamp": "00:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "yAlAb8LArG",
+    "value": "09",
+    "color": "black",
+    "timestamp": "00:40",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "xmlNajVOkv",
+    "value": "04",
+    "color": "red",
+    "timestamp": "00:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "gM19bLy0kA",
+    "value": "08",
+    "color": "black",
+    "timestamp": "00:39",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "BylLaQjmrG",
+    "value": "12",
+    "color": "black",
+    "timestamp": "00:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "WG17AKomlZ",
+    "value": "10",
+    "color": "black",
+    "timestamp": "00:38",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "M9rKgvV2r6",
+    "value": "05",
+    "color": "red",
+    "timestamp": "00:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "AXlOA3V71O",
+    "value": "01",
+    "color": "red",
+    "timestamp": "00:37",
+    "isoDate": "2025-09-16"
+  },
+  {
+    "id": "OWld2j7D13",
+    "value": "08",
+    "color": "black",
+    "timestamp": "00:36",
+    "isoDate": "2025-09-16"
+  }
+]
