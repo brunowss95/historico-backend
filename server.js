@@ -134,7 +134,7 @@ app.get('/api/hourly-stats', (req, res) => {
     const year = hoje.toLocaleString('en-US', { year: 'numeric', timeZone });
     const month = hoje.toLocaleString('en-US', { month: '2-digit', timeZone });
     const day = hoje.toLocaleString('en-US', { day: '2-digit', timeZone });
-    const hojeISO = `${year}-${month}-${day}`;
+    const hojeISO = `${year}-${month}-${day}`;git push -u origin main
     
     const dataRequisitada = req.query.date || hojeISO;
     const hourlyStats = calcularEstatisticasPorHora(dataRequisitada);
