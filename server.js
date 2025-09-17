@@ -1,4 +1,4 @@
-// ARQUIVO: server.js (VERSÃO FINAL COMPLETA)
+// ARQUIVO: server.js (VERSÃO COM CORREÇÃO FINAL DE FUSO HORÁRIO)
 
 const express = require('express');
 const cors = require('cors');
@@ -38,17 +38,21 @@ async function buscarNovosResultados() {
             default: corTexto = 'black';
         }
         
-        const dataResultado = new Date(ultimoResultadoApi.created_at);
-        const timeZone = 'America/Sao_Paulo';
-
-        const timestampFormatado = dataResultado.toLocaleTimeString('pt-BR', {
-            hour: '2-digit', minute: '2-digit', timeZone
+        const dataUTC = new Date(ultimoResultadoApi.created_at);
+        
+        // ===================================================================
+        // ## LÓGICA DE FUSO HORÁRIO CORRIGIDA ##
+        
+        // Ajusta manualmente o horário de UTC para UTC-3 (Horário de Brasília)
+        const dataBrasilia = new Date(dataUTC.getTime() - (3 * 60 * 60 * 1000));
+        
+        // Agora extraímos a data e a hora a partir da data já corrigida
+        const timestampFormatado = dataBrasilia.toLocaleTimeString('pt-BR', {
+            hour: '2-digit', minute: '2-digit', timeZone: 'UTC' // Usamos UTC aqui porque já ajustamos o tempo manualmente
         });
-
-        const year = dataResultado.toLocaleString('en-US', { year: 'numeric', timeZone });
-        const month = dataResultado.toLocaleString('en-US', { month: '2-digit', timeZone });
-        const day = dataResultado.toLocaleString('en-US', { day: '2-digit', timeZone });
-        const isoDateCorreta = `${year}-${month}-${day}`;
+        const isoDateCorreta = dataBrasilia.toISOString().split('T')[0]; // YYYY-MM-DD
+        
+        // ===================================================================
 
         const novoResultado = {
             id: ultimoResultadoApi.id,
@@ -94,9 +98,7 @@ function calcularEstatisticasBranco() {
         if (r.color === 'white') {
             if (contadorDesdeUltimoBranco > maximaRodadas) maximaRodadas = contadorDesdeUltimoBranco;
             contadorDesdeUltimoBranco = 0;
-        } else {
-            contadorDesdeUltimoBranco++;
-        }
+        } else { contadorDesdeUltimoBranco++; }
     });
     if (contadorDesdeUltimoBranco > maximaRodadas) maximaRodadas = contadorDesdeUltimoBranco;
     return { rodadasAtras, minutosAtras, maximaRodadas };
@@ -111,9 +113,7 @@ function calcularEstatisticasPorHora(dataRequisitada) {
     historicoDeResultados.forEach(resultado => {
         if (resultado.isoDate === dataRequisitada) {
             const hour = resultado.timestamp.substring(0, 2);
-            if (stats[hour] && resultado.color) {
-                stats[hour][resultado.color]++;
-            }
+            if (stats[hour] && resultado.color) { stats[hour][resultado.color]++; }
         }
     });
     return stats;
@@ -124,21 +124,16 @@ app.get('/api/results', (req, res) => {
 });
 
 app.get('/api/stats', (req, res) => {
-    const estatisticas = calcularEstatisticasBranco();
-    res.json(estatisticas);
+    res.json(calcularEstatisticasBranco());
 });
 
 app.get('/api/hourly-stats', (req, res) => {
     const hoje = new Date();
-    const timeZone = 'America/Sao_Paulo';
-    const year = hoje.toLocaleString('en-US', { year: 'numeric', timeZone });
-    const month = hoje.toLocaleString('en-US', { month: '2-digit', timeZone });
-    const day = hoje.toLocaleString('en-US', { day: '2-digit', timeZone });
-    const hojeISO = `${year}-${month}-${day}`;
+    const dataBrasiliaHoje = new Date(hoje.getTime() - (3 * 60 * 60 * 1000));
+    const hojeISO = dataBrasiliaHoje.toISOString().split('T')[0];
     
     const dataRequisitada = req.query.date || hojeISO;
-    const hourlyStats = calcularEstatisticasPorHora(dataRequisitada);
-    res.json(hourlyStats);
+    res.json(calcularEstatisticasPorHora(dataRequisitada));
 });
 
 app.listen(PORTA, () => {
