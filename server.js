@@ -138,5 +138,5 @@ app.get('/api/hourly-stats', (req, res) => {
 
 app.listen(PORTA, () => {
     console.log(`Servidor rodando na porta ${PORTA}`);
-    setInterval(buscarNovosResultados, 15000);
+    setInterval(buscarNovosResultados, 1000);
 });
