@@ -138,7 +138,7 @@
      res.json(calcularEstatisticasPorHora(dataRequisitada));
  });
 
-app.listen(PORTA, () => {
-    console.log(`Servidor rodando na porta ${PORTA}`);
-    setInterval(buscarNovosResultados, 15000);
-});
+ app.listen(PORTA, () => {
+     console.log(`Servidor rodando na porta ${PORTA}`);
+     setInterval(buscarNovosResultados, 15000);
+ });
